@@ -1,0 +1,32 @@
+[
+  {
+
+    "question": "In which Italian city can you find the Colosseum?",
+    "correct_answer": "Rome",
+    "answer1": "Venice",
+    "answer2": "Naples",
+    "answer3": "Milan"
+  },
+  {
+    "question": "In which city can you find the Prado Museum?",
+    "correct_answer": "Madrid",
+    "answer1": "Santiago",
+    "answer2": "Barcelona",
+    "answer3": "Buenos Aires"
+  },
+    {
+    "question": "In which city can you find the Tour Eiffel?",
+    "correct_answer": "Paris",
+    "answer1": "Marseille",
+    "answer2": "Lyon",
+    "answer3": "Nice"
+  },
+    {
+    "question": "In which city can you find the Basilica of Notre-Dame de Fourvière?",
+    "correct_answer": "Lyon",
+    "answer1": "Marseille",
+    "answer2": "Paris",
+    "answer3": "Nice"
+  }
+
+]
